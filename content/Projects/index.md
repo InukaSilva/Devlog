@@ -6,4 +6,4 @@ tags:
 A place where you can keep up to date with the progress of my projects that I have and am currently working on :D 
 
 Current Projects:
-* [[Portfolio/]] -> Need to upgrade my current portfolio 😊
+* [[projects/portfolio/]] -> Need to upgrade my current portfolio 😊
