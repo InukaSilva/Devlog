@@ -1,7 +1,7 @@
 ---
-title: Portfolio - the idea
+title: Portfolio Update - August 20th, 2025
 draft: false
-tags: 
+tags:
 date: 2025-08-20
 ---
 Progress has been made, quite a bit actually. After looking through thousands of inspiration, I have come up with a design that I think fits my needs. I really liked how [Azuki](https://www.azuki.com/) had the text on their screen being minimal, with a elegant clean font. Additionally, with all the graphics, it made me want to stay on their website and keep exploring. I want to recreate that feeling with my portfolio.
