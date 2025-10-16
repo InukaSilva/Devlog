@@ -1,5 +1,5 @@
 ---
-title: Portfolio Update - August 20th, 2025
+title: Portfolio Update - 1
 draft: false
 tags:
 date: 2025-08-20
