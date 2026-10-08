@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Welcome to Inuka's Developer Logbook!
 ---
 ``` Text
 InukaSilva@Devlog:~$ Welcome 
