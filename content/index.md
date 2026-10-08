@@ -2,7 +2,7 @@
 title: Home
 ---
 ``` bash
-InukaSilva@Devlog:~$ Welcome 
+InukaSilva@Devlog:~$ cat Welcome.txt
 Welcome to my developer log!
 
 What is this Developer Log for?
@@ -11,7 +11,6 @@ This is for me to:
 - Write down things I've Learned
 - Feel productive when im procrastinating my assignments
 ```
-
 #### Quick Links
 [[Projects/index|Projects]]
 [[Misc/index|Misc]]
