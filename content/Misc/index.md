@@ -3,5 +3,4 @@ title: Misc
 draft: false
 tags:
 ---
-
-Until I find a spot for these, they will go here
+As are most of the thoughts and ideas, things that are one off items will most likely be here until adopted by a folder :D
