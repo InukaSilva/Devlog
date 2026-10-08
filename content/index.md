@@ -4,10 +4,11 @@ title: Home
 ``` bash
 InukaSilva@Devlog:~$ Welcome 
 Welcome to my developer log!
+                             \
+                              \    ___
+                                 >(.  )___
+                                  (______/⠀⠀⠀
 
-  ___
->(.  )__
- (______/⠀⠀⠀
 ```
 
 #### What is this devlog for? 
