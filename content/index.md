@@ -3,7 +3,7 @@ title: Home
 ---
 Hi there!
 
-Welcome to my mind palace... aka my **Developer Log**!
+Welcome to my mind palace...aka my **Developer Log**!
 
 You might now be wondering "Inuka, what exactly is this developer log for?" and I would say "are you a telepath?"
 
