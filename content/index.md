@@ -11,9 +11,9 @@ But jokes aside, this place is more just for me to show the progress I've made o
 
 Now that we've gotten through the brief housekeeping, feel free to look around!
 
-Here are some links for you to get started
-[[content/Projects/index|Projects]]
-[[content/Miscellaneous/index|Miscellaneous]]
+Here are some links for you to get started:
+- [[content/Projects/index|Projects]]
+- [[content/Miscellaneous/index|Miscellaneous]]
 
 
 
