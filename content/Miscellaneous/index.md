@@ -1,6 +1,6 @@
 ---
-title: Misc
+title: Miscellaneous
 draft: false
 tags:
 ---
-As are most of the thoughts and ideas, things that are one off items will most likely be here until adopted by a folder :D
+As are most of the thoughts and ideas I have. You can find things that I haven't yet found a home for here. Until they are adopted by a caring folder family.

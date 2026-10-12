@@ -1,14 +1,8 @@
 ---
 title: SO101 Arm - Set up and Imitation learning
-draft: false
+draft: true
 tags:
 ---
-
-```python
-summary(title:note):
-	print("Cool robot, imitation learning, D1 WSL hater")
-```
-
 I love chudding my summer away just as much as the next guy. However, the overwhelming guilt of not being productive drove me to use my last bit of time left to work on a summer project. I started out my summer learning software and stuff "in theory," but didn't apply my learning into something physical. What I ended up landing on was using a SO-101 Arm kit, follow the tutorials, and then work on something myself.
 
 #### Environment
