@@ -3,7 +3,6 @@ title: SO101 Arm
 draft: false
 tags:
 ---
-
 I love robotics, but outside of FIRST Robotics in high school, I haven't found a entry level robotics project that feels as "grand" as an FRC robot
 
 ![[IMG_6068.mov]]
